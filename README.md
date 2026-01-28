@@ -173,10 +173,7 @@ If email is not configured, OTP will be printed to the server console.
 | PUT | `/api/checkout/:id/approve` | Approve request | ✅ Issuer/Admin |
 | GET | `/api/users` | List users | ✅ Admin |
 
-## 📄 License
+## 📄 Output
 
-This project is created for educational purposes as part of the Cybersecurity coursework (23CSE313).
-
----
-
-**Built with ❤️ for secure asset management**
+![alt text](<output screenshot/image.png>)
+![alt text](<output screenshot/image-1.png>) ![alt text](<output screenshot/image-2.png>) ![alt text](<output screenshot/image-3.png>) ![alt text](<output screenshot/image-4.png>) ![alt text](<output screenshot/image-5.png>) ![alt text](<output screenshot/image-6.png>) ![alt text](<output screenshot/image-7.png>) ![alt text](<output screenshot/image-8.png>) ![alt text](<output screenshot/image-9.png>) ![alt text](<output screenshot/image-10.png>)
